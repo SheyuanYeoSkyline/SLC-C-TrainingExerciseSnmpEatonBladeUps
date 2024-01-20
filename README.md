@@ -1,4 +1,4 @@
-# Training Exercise SNMP: Eatoon Blade UPS
+# Training Exercise SNMP: Eaton Blade UPS
 
 ## Description
 
